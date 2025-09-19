@@ -32,7 +32,8 @@ SELECT*
 FROM books
 ORDER BY book_id DESC
 LIMIT 5
-                        Theory Answer
+                       
+                                                   Theory Answer
 Database is a systems that store data in a tabular form for easy access 1b. Tables are the component of database. It consist of fields and records.
 
 Primary key is important because it helps to identify relationship between tables.
@@ -42,3 +43,13 @@ VARCHAR has maximum strings character ranges from 0-255words and it’s very fle
 Similarities between postgrel Sql and Sql server Both stored structured data
 
 Distinct helps to filter out duplicate values. We use it when there’s repetition of values in a data
+
+                                                  Result
+
+!([<img width="856" height="289" alt="SCRN" src="https://github.com/user-attachments/assets/42913a6b-dc63-405b-8896-16e586b64f82" />])
+!([<img width="321" height="324" alt="srn part b2" src="https://github.com/user-attachments/assets/e2623287-e921-45ad-8e6c-b787acbef455" />])
+!([<img width="298" height="259" alt="partb4" src="https://github.com/user-attachments/assets/c5ef0e74-4a9f-4004-835b-fa2f4ebbcd16" />])
+!([<img width="462" height="323" alt="partb5" src="https://github.com/user-attachments/assets/944b1022-2862-41f6-9fc0-5d3e1f3cd0ca" />])
+!([<img width="623" height="361" alt="PART C 2" src="https://github.com/user-attachments/assets/ed7e776b-e499-4a82-bf36-41cbb48f5ad2" />])
+
+
