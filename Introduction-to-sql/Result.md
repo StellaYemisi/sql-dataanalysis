@@ -1,0 +1,6 @@
+!(<img width="496" height="321" alt="PART B 1" src="https://github.com/user-attachments/assets/cd9b6e49-5d02-452d-9fa9-af3371287a43" />)
+!(<img width="521" height="391" alt="PART B2" src="https://github.com/user-attachments/assets/755e7778-4c9b-4fa3-a6a4-b1d5f1d25f96" />)
+!(<img width="711" height="526" alt="PART B3" src="https://github.com/user-attachments/assets/7be7746f-83e0-424c-83ca-07b2a4d7c7a1" />)
+!(<img width="712" height="477" alt="PART B 4" src="https://github.com/user-attachments/assets/20230f73-e8e4-46b2-8c22-31be4c9c05ea" />)
+!(<img width="321" height="324" alt="srn part b2" src="https://github.com/user-attachments/assets/b9be6cba-7ab4-4dd9-9d9a-1786a082fa76" />)
+!(<img width="623" height="361" alt="PART C 2" src="https://github.com/user-attachments/assets/15489113-f4a2-4c71-97dc-1fc794fc6afc" />)
